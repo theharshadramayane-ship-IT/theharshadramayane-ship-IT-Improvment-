@@ -47,12 +47,13 @@ A production-minded trading order reliability and protection infrastructure.
 
 ---
 
-### 🐍 Contribution Activity
-<div align="center">
-  <img src="https://raw.githubusercontent.com/theharshadramayane-ship-IT/theharshadramayane-ship-IT-Improvement-/output/snake.svg" alt="github contribution grid snake animation" />
-</div>
+### ⚡ System Status & Activity
 
----
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Architecting+Go+%2B+Rust+FFI+Boundaries;Designing+Idempotent+Order+State+Machines;Evaluating+Deterministic+Safety+Rules;Ensuring+Zero-Duplicate+Financial+Transactions" alt="Typing SVG" />
+  </a>
+</div>
 
 ### 💼 Other Projects
 
