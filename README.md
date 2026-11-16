@@ -42,7 +42,7 @@ A production-minded trading order reliability and protection infrastructure.
 ### 📊 GitHub Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=theharshadramayane-ship-IT&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Harshad's GitHub Stats" />
+ 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=theharshadramayane-ship-IT&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9" alt="Harshad's Streak" />
 </div>
 
