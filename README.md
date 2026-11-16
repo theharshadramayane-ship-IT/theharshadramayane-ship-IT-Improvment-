@@ -1,8 +1,10 @@
 <div align="center">
-  <h1>Hi, I'm The Harshad Ramayane 👋</h1>
-  <h3>Systems & Backend Engineer | Fintech Infrastructure | MERN & Rust</h3>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hi,+I'm+Harshad+Ramayane;Systems+%26+Backend+Engineer;Architecting+Fintech+Infrastructure;Go+%2B+Rust+%2B+PostgreSQL" alt="Typing SVG" />
   
-  > *"Building resilient systems where correctness, state, and performance are non-negotiable."*
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=theharshadramayane-ship-IT&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+    <img src="https://img.shields.io/github/followers/theharshadramayane-ship-IT?label=Followers&style=flat-square&color=0e75b6" alt="Followers" />
+  </p>
 </div>
 
 ---
@@ -26,15 +28,17 @@ A production-minded trading order reliability and protection infrastructure.
 
 ### 🚀 Core Stack & Tools
 
-<div align="left">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=go,rust,postgres,ts,react,nodejs,docker,git,github,vscode,linux,bash&perline=6" alt="My Skills" />
+  </a>
+</div>
+
+---
+
+### 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=theharshadramayane-ship-IT&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=6" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -47,34 +51,16 @@ A production-minded trading order reliability and protection infrastructure.
 
 ---
 
-### ⚡ System Status & Activity
+### 💻 Terminal Overview
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Architecting+Go+%2B+Rust+FFI+Boundaries;Designing+Idempotent+Order+State+Machines;Evaluating+Deterministic+Safety+Rules;Ensuring+Zero-Duplicate+Financial+Transactions" alt="Typing SVG" />
-  </a>
-</div>
+```bash
+harshad@orderguard:~$ whoami
+Systems & Backend Engineer
 
-### 💼 Other Projects
+harshad@orderguard:~$ cat current_focus.txt
+-> Engineering high-assurance financial infrastructure.
+-> Bridging Go orchestration with Rust memory safety via cgo.
+-> Mastering distributed transactions and idempotency.
 
-- **Blood-D-System:** Full-stack blood management application (React, Node.js/Express, MongoDB). *Focus: scalable state management and RESTful API design.*
-- **SentraBand:** H₂S Exposure Monitoring Concept (Hardware + Web Prototype). *Focus: IoT data ingestion and record management.*
-- **Mihir Ceramics Website:** Business web deployment. *Focus: Frontend performance and accessibility.*
-
----
-
-### 🧠 Engineering Philosophy
-
-> [!IMPORTANT]  
-> **Correctness over speed.** I prefer building an idempotent, crash-safe transaction pipeline over a fast but unreliable endpoint. 
-> 
-> **Safety at the boundaries.** Using Rust via FFI in Go allows me to keep business logic orchestrated in Go, while delegating deterministic, memory-safe rule evaluations to Rust.
-> 
-> **Observability by default.** A system that fails silently is broken. State machines must explicitly track transitions, and failures must be auditable.
-
----
-
-### 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshad-ramayane-34b48731b/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/theharshadramayane-ship-IT)
+harshad@orderguard:~$ uptime
+Building consistently since 2024. 100% commit rate.
