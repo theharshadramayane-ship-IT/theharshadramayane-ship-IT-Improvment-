@@ -1,51 +1,30 @@
-# Hi, I'm The Harshad Ramayane 👋
-### Systems & Backend Engineer | Fintech Infrastructure | MERN & Rust
+<div align="center">
+  <h1>Hi, I'm The Harshad Ramayane 👋</h1>
+  <h3>Systems & Backend Engineer | Fintech Infrastructure | MERN & Rust</h3>
+  
+  > *"Building resilient systems where correctness, state, and performance are non-negotiable."*
+</div>
 
-> *"Building resilient systems where correctness, state, and performance are non-negotiable."*
+---
 
-I am an Information Technology student (Class of 2027) specializing in backend architecture, low-level systems programming, and distributed system reliability. I don't just build web apps; I engineer state machines, safe FFI boundaries, and durable data pipelines. 
+### 🧠 Engineering Profile
+I am an IT student (Class of 2027) specializing in backend architecture, low-level systems programming, and distributed system reliability. I don't just build CRUD apps; I engineer state machines, safe FFI boundaries, and durable data pipelines.
 
 Currently, I am bridging the gap between **Go**, **Rust**, and **PostgreSQL** to build high-assurance financial infrastructure.
 
 ---
 
-### 🚀 Core Competencies
-
-> **Backend Engineering & Architecture**
-> - **Go (Golang):** Concurrency (Goroutines/Channels), REST API design, Clean Modular Architecture, cgo/FFI integration.
-> - **Node.js / Express:** Event-driven architecture, middleware orchestration, API gateways.
-> - **Rust:** Memory safety, Ownership/Borrowing, C-ABI interoperability, zero-cost abstractions.
-
-> **Data & Persistence**
-> - **PostgreSQL:** Transactions, ACID compliance, JSONB, connection pooling, durable idempotency, migrations.
-> - **MongoDB:** NoSQL data modeling, aggregation pipelines.
-> - **MySQL:** Relational schema design.
-
-> **Systems & Reliability (In Progress)**
-> - Duplicate-order protection, Event-driven lifecycles, Broker reconciliation, Distributed locks.
-> - C-ABI FFI (Foreign Function Interface) boundaries between Rust and Go.
-
----
-
-### 🛡️ Featured Infrastructure Project: OrderGuard
-*(Currently in Active Development)*
-
+### 🛡️ Featured Infrastructure: OrderGuard
 A production-minded trading order reliability and protection infrastructure.
 - **The Problem:** Traders suffer financial loss due to accidental duplicate orders and "UNKNOWN" broker states caused by network timeouts.
 - **The Architecture:** `React (TS)` → `Go Backend` → `Rust Safety Library (cgo)` → `Hosted PostgreSQL`.
-- **The Engineering:** Implements explicit order state machines, durable idempotency keys, and a zero-trust FFI boundary to evaluate safety rules without I/O blocking.
+- **The Engineering:** Implements explicit order state machines, durable idempotency keys, and a zero-trust FFI boundary.
+
+👉 **[Read the System Architecture Design](assets/architecture.md)**
 
 ---
 
-### 📌 Additional Projects
-
-- **Blood-D-System:** Full-stack blood management application (React, Node.js/Express, MongoDB). *Focus: scalable state management and RESTful API design.*
-- **SentraBand:** H₂S Exposure Monitoring Concept (Hardware + Web Prototype). *Focus: IoT data ingestion and record management.*
-- **Mihir Ceramics Website:** Business web deployment. *Focus: Frontend performance and accessibility.*
-
----
-
-### 🛠️ The Tech Stack
+### 🚀 Core Stack & Tools
 
 <div align="left">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
@@ -57,6 +36,34 @@ A production-minded trading order reliability and protection infrastructure.
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </div>
+
+---
+
+### 📊 GitHub Metrics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=theharshadramayane-ship-IT&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Harshad's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theharshadramayane-ship-IT&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9" alt="Harshad's Streak" />
+</div>
+
+---
+
+### 🐍 Contribution Activity
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/theharshadramayane-ship-IT/theharshadramayane-ship-IT-Improvement-/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/theharshadramayane-ship-IT/theharshadramayane-ship-IT-Improvement-/output/snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/theharshadramayane-ship-IT/theharshadramayane-ship-IT-Improvement-/output/snake.svg" />
+  </picture>
+</div>
+
+---
+
+### 💼 Other Projects
+
+- **Blood-D-System:** Full-stack blood management application (React, Node.js/Express, MongoDB). *Focus: scalable state management and RESTful API design.*
+- **SentraBand:** H₂S Exposure Monitoring Concept (Hardware + Web Prototype). *Focus: IoT data ingestion and record management.*
+- **Mihir Ceramics Website:** Business web deployment. *Focus: Frontend performance and accessibility.*
 
 ---
 
@@ -73,12 +80,5 @@ A production-minded trading order reliability and protection infrastructure.
 
 ### 📫 Connect With Me
 
-I am always open to discussing backend architectures, distributed systems, and fintech reliability.
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshad-ramayane-34b48731b/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/theharshadramayane-ship-IT)
-
----
-<p align="center">
-  <i>"A system that fails silently is a system that cannot be trusted."</i>
-</p>
