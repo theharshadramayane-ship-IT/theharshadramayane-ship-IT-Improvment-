@@ -42,7 +42,6 @@ A production-minded trading order reliability and protection infrastructure.
 ### 📊 GitHub Metrics
 
 <div align="center">
- 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=theharshadramayane-ship-IT&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9" alt="Harshad's Streak" />
 </div>
 
@@ -50,11 +49,7 @@ A production-minded trading order reliability and protection infrastructure.
 
 ### 🐍 Contribution Activity
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/theharshadramayane-ship-IT/theharshadramayane-ship-IT-Improvement-/output/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/theharshadramayane-ship-IT/theharshadramayane-ship-IT-Improvement-/output/snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/theharshadramayane-ship-IT/theharshadramayane-ship-IT-Improvement-/output/snake.svg" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/theharshadramayane-ship-IT/theharshadramayane-ship-IT-Improvement-/output/snake.svg" alt="github contribution grid snake animation" />
 </div>
 
 ---
