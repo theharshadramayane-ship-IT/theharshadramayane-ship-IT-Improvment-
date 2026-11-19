@@ -1,9 +1,10 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hi,+I'm+Harshad+Ramayane;Systems+%26+Backend+Engineer;Architecting+Fintech+Infrastructure;Go+%2B+Rust+%2B+PostgreSQL" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hi,+I'm+The+Harshad+Ramayane+%F0%9F%91%8B;Systems+%26+Backend+Engineer;Architecting+Fintech+Infrastructure;Go+%2B+Rust+%2B+PostgreSQL" alt="Typing SVG" />
   
   <p>
     <img src="https://komarev.com/ghpvc/?username=theharshadramayane-ship-IT&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
     <img src="https://img.shields.io/github/followers/theharshadramayane-ship-IT?label=Followers&style=flat-square&color=0e75b6" alt="Followers" />
+    <img src="https://img.shields.io/badge/Focus-Distributed%20Systems-ff69b4?style=flat-square" alt="Focus" />
   </p>
 </div>
 
